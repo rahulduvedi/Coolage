@@ -1,5 +1,5 @@
 # Coolage 
-For description of the script please open the file above and my comments will also guide you
+For description of the script please open the file above and my comments will also guide you.
 Guys, you need to install some python modules using pip just open your command prompt(run as administrator) to using following commands
 1. For NumPy - pip install NumPy
 2. for OpenCV- pip install OpenCV-python
